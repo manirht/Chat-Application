@@ -32,7 +32,7 @@ Chatterbox is not just your ordinary chat application; it's an immersive, real-t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/SHESHU45/chatterbox.git
+   git clone https://github.com/venkatavamsidama/Chat-Application.git
 2. Navigate to the project directory: cd chatterbox
 3. Install dependencies: npm install
 4. Set up environment variables:
