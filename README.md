@@ -1,15 +1,15 @@
 <div align="center">
-  <h1>Chatterbox</h1>
+  <h1>ChatFlow</h1>
   <p>Real-Time Chat Application</p>
 </div>
 
-Chatterbox is not just your ordinary chat application; it's an immersive, real-time communication platform designed to elevate your chatting experience. Built on the powerful MERN stack (MongoDB, Express.js, React, Node.js), Chatterbox integrates seamlessly with Socket.IO for lightning-fast WebSocket communication, ensuring instant messaging between users.
+ChatFlow is not just your ordinary chat application; it's an immersive, real-time communication platform designed to elevate your chatting experience. Built on the powerful MERN stack (MongoDB, Express.js, React, Node.js), ChatFlow integrates seamlessly with Socket.IO for lightning-fast WebSocket communication, ensuring instant messaging between users.
 
 ## Features
 
 - 🚀 **Real-Time Messaging:** Engage in instant conversations with friends and peers, all in real-time.
 - 🔒 **Secure User Authentication:** Rest assured knowing your chats are protected by a robust authentication and authorization system.
-- 📱 **Responsive Design:** Whether you're on a desktop or mobile device, Chatterbox adapts effortlessly to provide a consistent user experience.
+- 📱 **Responsive Design:** Whether you're on a desktop or mobile device, ChatFlow adapts effortlessly to provide a consistent user experience.
 - 🎨 **Customizable Profiles:** Personalize your profile to reflect your unique personality and style.
 
 ## Tech Stack
