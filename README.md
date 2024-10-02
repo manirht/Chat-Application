@@ -3,7 +3,7 @@
   <p>Real-Time Chat Application</p>
 </div>
 
-ChatFlow is not just your ordinary chat application; it's an immersive, real-time communication platform designed to elevate your chatting experience. Built on the powerful MERN stack (MongoDB, Express.js, React, Node.js), ChatFlow integrates seamlessly with Socket.IO for lightning-fast WebSocket communication, ensuring instant messaging between users.
+ChatFlow is not just your ordinary chat application, it's an immersive, real-time communication platform designed to elevate your chatting experience. Built on the powerful MERN stack (MongoDB, Express.js, React, Node.js), ChatFlow integrates seamlessly with Socket.IO for lightning-fast WebSocket communication, ensuring instant messaging between users.
 
 ## Features
 
